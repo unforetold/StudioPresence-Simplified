@@ -1,3 +1,9 @@
+# Important Message
+This repo uses assets from [StudioPresence by iArxic](https://github.com/iArxic/StudioPresence/tree/main/src), however the StudioPresence.exe has not been modified in anyway whatsoever. All the code is original. I added my own to make it more convenient for other users.
+
+Any issues can be delievered to me at policy@unforetold.space.
+
+
 ## **Firstly, Requirements.**
 
 
